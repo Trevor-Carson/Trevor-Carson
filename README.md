@@ -1,4 +1,4 @@
-### Hi there , I am Trevor Carson! <img src="https://bestanimations.com/media/canada/2134550685canada-flag-animated-gif-70.gif#.YHhENYpxZwM.link" width="120px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there , I am Trevor Carson! <img src="https://bestanimations.com/media/canada/2134550685canada-flag-animated-gif-70.gif#.YHhENYpxZwM.link" width="60px">
 
 <!--
 **Trevor-Carson/Trevor-Carson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
