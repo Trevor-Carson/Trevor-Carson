@@ -10,7 +10,7 @@ A Software Engineer specializing in Java, C++, and MySQL.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php.svg" alt="PHP" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50"/>
 
 --------
 
