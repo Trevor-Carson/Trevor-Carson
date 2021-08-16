@@ -2,7 +2,8 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue" width="150px">](https://linkedin.com/in/trevor-carson-81a3b0205)
 
-A Software Engineer specializing in Java, C++, and MySQL.
+A Software Engineer specializing in:
+Java, C++, HTML, CSS, PHP, JavaScript, and SQL.
 
 
 
