@@ -2,8 +2,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue" width="150px">](https://linkedin.com/in/trevor-carson-81a3b0205)
 
-A computer programmer versatile in:
-Java, C++, SQL, HTML, CSS, PHP, JavaScript, and shell scripting.
+A computer programmer versatile in Java, C++, SQL, HTML, CSS, JavaScript, PHP and Windows/Linux shell scripting. Working towards full stack development.
 
 
 
