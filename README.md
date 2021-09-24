@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there , I am Trevor Carson! <img src="https://bestanimations.com/media/canada/2134550685canada-flag-animated-gif-70.gif#.YHhENYpxZwM.link" width="60px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there , I am Trevor Carson! <img src="https://i.pinimg.com/originals/96/a6/a2/96a6a24f5bce47269420b36915a1d800.gif" width="60px">
 
 [<img src="https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue" width="150px">](https://linkedin.com/in/trevor-carson-81a3b0205)
 
