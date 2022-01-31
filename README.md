@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there , I am Trevor Carson! <img src="https://i.pinimg.com/originals/96/a6/a2/96a6a24f5bce47269420b36915a1d800.gif" width="60px">
 
 [<img src="https://img.shields.io/badge/LinkedIn-LinkedIn%20Profile-blue" width="150px">](https://linkedin.com/in/trevor-carson-81a3b0205)
-[<img src="https://https://img.shields.io/badge/-Trevor%20Carson's%20--%20Webpage-green" width="150px">](https://trevor-carson.github.io/)
+[<img src="https://https://img.shields.io/badge/-Trevor%20Carsons%20--%20Webpage-green" width="150px">](https://trevor-carson.github.io/)
 
 A computer programmer versatile in Java, C++, SQL, HTML, CSS, JavaScript, PHP and Windows/Linux shell scripting. Working towards full stack development.
 
